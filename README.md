@@ -54,7 +54,7 @@ public class ideltocrouch : MonoBehaviour
 
 
 ## Output:
-## WALKING:
+## WALKING POSITION:
 ![output](image4.png)
 ## CROUCH POSITION:
 ![output](image3.png)
